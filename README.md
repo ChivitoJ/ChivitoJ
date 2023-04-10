@@ -6,9 +6,6 @@
   - [Creating a live SOC/Honeynet in Azure](https://github.com/ChivitoJ/Azure-SOC)
 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on getting my Degree in Software Engineering.
+
